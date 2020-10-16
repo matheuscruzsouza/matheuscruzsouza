@@ -8,7 +8,7 @@ Full-Stack focused on Spring boot + Angular | Software Engineer :robot:
 
 Indie game developer wannabe :trophy:
 
-Lover of tech, code and cooking :heart:
+Lover of Tech, Code and Cooking :heart:
  
  
 ## About me 
