@@ -6,6 +6,10 @@
  
 Full-Stack focused on Spring boot + Angular | Software Engineer :robot:
 
+Experiecned with: Node.js, Postgres, Python, Docker, Ruby, ...
+
+Learning: Deno, Golang, Flutter, ...
+
 Indie game developer wannabe :trophy:
 
 Lover of Tech, Code and Cooking :heart:
