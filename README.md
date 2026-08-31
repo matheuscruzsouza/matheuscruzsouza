@@ -1,41 +1,58 @@
-<!-- <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui"> -->
- 
-# Welcome!
- 
-## I'm Matheus Cruz de Souza!
- 
-Full-Stack focused on Spring boot + Angular | Software Engineer :robot:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Matheus+Cruz;Full+Stack+Software+Engineer;Java+%7C+Go+%7C+Spring+Boot+%7C+Angular;Passionate+about+Architecture+%26+Retro+Tech" alt="Typing SVG" />
+  
+  <p align="center">
+    Engenheiro de Software focado em construir arquiteturas resilientes, APIs escaláveis e interfaces web dinâmicas.
+  </p>
 
-Experienced with: Node.js, Postgres, Python, Docker, Ruby, ...
+  <p align="center">
+    <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-Learning: Deno, Golang, Flutter, ...
+---
 
-Indie game developer wannabe :trophy:
+### ⚡ Sobre Mim
 
-Lover of Tech, Code and Cooking :heart:
- 
- 
-## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/matheuscruzsouza)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/matheuscruzsouza/)
-<!-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=+5522998506897&text=Hello!) -->
-<!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:matheuscruzsouza@gmail.com) -->
- 
-- Thanks for visiting. 
- 
-- Enjoy it!! :smiley:
+- 🔭 **Foco Atual:** Arquiteturas distribuídas, microsserviços e sistemas de autenticação/IAM centralizados.
+- 🛠️ **No dia a dia:** Construindo backends robustos em **Java (Spring Boot)** e **Go**, com frontends modernos em **Angular** e **HTMX**.
+- 💡 **Interesses:** Micro-SaaS, bancos relacionais (PostgreSQL/SQLite), emulação retro e game development.
 
-<!--
-**matheuscruzsouza/matheuscruzsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend & Sistemas**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+**Frontend & UI**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=matheuscruzsouza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscruzsouza&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+</div>
+
+---
+
+<p align="center">
+  <sub>"Talk is cheap. Show me the code." — Linus Torvalds</sub>
+</p>
