@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Matheus+Cruz;Full+Stack+Software+Engineer;Java+%7C+Go+%7C+Spring+Boot+%7C+Angular;Passionate+about+Architecture+%26+Retro+Tech" alt="Typing SVG" />
-  
+ <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Matheus+Cruz;Software+Engineer;Java+%7C+Go+%7C+Angular+%7C+Android;Software+Architecture+%26+Open+Source" alt="Typing SVG" />
+
   <p align="center">
-    Engenheiro de Software focado em construir arquiteturas resilientes, APIs escaláveis e interfaces web dinâmicas.
+    Engenheiro de Software interessado em arquitetura de sistemas, desenvolvimento backend e criação de soluções independentes.
+    <br/>
+    Foco em software modular, infraestrutura local e aproveitamento de dispositivos Android legados.
   </p>
 </div>
 
@@ -10,24 +12,27 @@
 
 ### ⚡ Sobre Mim
 
-- 🔭 **Foco Atual:** Arquiteturas distribuídas, microsserviços e sistemas de autenticação/IAM centralizados.
-- 🛠️ **No dia a dia:** Construindo backends robustos em **Java (Spring Boot)** e **Go**, com frontends modernos em **Angular** e **HTMX**.
-- 💡 **Interesses:** Micro-SaaS, bancos relacionais (PostgreSQL/SQLite), emulação retro e game development.
+- 🔭 **Foco Atual:** Engenharia de software, arquitetura modular, frameworks e aplicações independentes.
+- 🛠️ **No dia a dia:** Desenvolvimento de soluções utilizando Java, Spring, Go, Angular e HTMX.
+- 💡 **Interesses:** Sistemas distribuídos, infraestrutura local, bancos de dados, automação, emulação retro e game development.
+- 🎯 **Objetivo:** Construir software útil, sustentável e acessível, aproveitando ao máximo os recursos computacionais disponíveis.
 
 ---
 
 ### 🚀 Core Strengths & Competências
 
-* **Arquitetura Modular & Reusabilidade:** Experiência prática na estruturação de monorepos e workspaces para criação e distribuição de bibliotecas desacopladas (Angular Libraries).
-* **Backend de Alta Performance:** Construção de microsserviços, autenticação/IAM e regras de negócio complexas utilizando ecossistemas fortemente tipados (**Java/Spring Boot** e **Go**).
-* **Frontend Avançado & UI Engine:** Domínio no desenvolvimento de interfaces dinâmicas, componentes standalone, controle de estado, renderização reativa (**Angular**, **HTMX**) e estilização avançada.
-* **Resolução Criativa de Problemas:** Criação de soluções fora do padrão convencional, transitando entre interfaces temáticas ricas, manipulação direta de DOM/SVG e lógica para game development.
+* **Arquitetura Modular & Reusabilidade:** Desenvolvimento de frameworks, bibliotecas e sistemas desacoplados, com foco em extensibilidade e manutenção.
+* **Backend & Sistemas:** Construção de aplicações Java, APIs REST, gerenciamento de sessões, persistência e regras de negócio.
+* **Infraestrutura Local & Android:** Desenvolvimento de serviços e aplicações capazes de transformar dispositivos Android em servidores independentes.
+* **Frontend & Interfaces Dinâmicas:** Desenvolvimento de interfaces utilizando Angular, TypeScript, HTMX, HTML e CSS.
+* **Resolução Criativa de Problemas:** Exploração de soluções alternativas para limitações de hardware, infraestrutura e desenvolvimento de software.
 
 ---
 
 ### 🧰 Tech Stack
 
 **Backend & Engenharia de Dados**
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -38,6 +43,7 @@
 </p>
 
 **Frontend & Mobile**
+
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -49,26 +55,16 @@
 
 ---
 
-### 📂 Projetos Originais & Conceitos
+### 📂 Projetos em Destaque
 
 | Projeto | Foco Principal | Destaque Técnico |
 | :--- | :--- | :--- |
-| **`my-angular-lib-workspace`** | Modularidade & Front Architecture | Estruturação de workspace multi-pacote para empacotamento e distribuição de libs Angular reutilizáveis. |
-| **`pipboy-angular`** | Interface Temática & UI Design | Exploração de estados reativos e estilização CSS/SCSS avançada inspirada em interfaces sci-fi/retro. |
-| **`chronos`** | Backend & Domínio de Negócio | Modelagem orientada a objetos em Java para gestão de fluxos temporais e lógica estruturada. |
-| **`flutter_rolling_dice_tutorial`** | Mobile Multiplataforma | Gerenciamento de estado reativo e ciclo de vida de componentes com Flutter/Dart. |
+| **[nano-spring](https://github.com/matheuscruzsouza/nano-spring)** | Framework & Backend | Microframework web para Android, com arquitetura modular, injeção de dependências e roteamento REST. |
+| **[pocket-pdv](https://github.com/matheuscruzsouza/pocket-pdv)** | Sistemas Comerciais & Android | Sistema de ponto de venda híbrido, com servidor local e interface web para dispositivos Android. |
+| **[sprintt](https://github.com/matheuscruzsouza/sprintt)** | Gestão de Projetos | Plataforma de gerenciamento de projetos com Kanban, sprints e infraestrutura local. |
 
 ---
-
-### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=matheuscruzsouza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscruzsouza&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
-</div>
-
----
-
-<p align="center">
   <sub>"Talk is cheap. Show me the code." — Linus Torvalds</sub>
-</p>
+</div>
